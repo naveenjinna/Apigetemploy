@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32391" started-at="2019-01-22T07:07:35Z" finished-at="2019-01-22T07:08:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32391" started-at="2019-01-22T07:07:35Z" finished-at="2019-01-22T07:08:08Z">
+      <class name="com.seleniumnew.Apitestpayslips.Apigetemploy2109">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumnew.Apitestpayslips.Apigetemploy2109@6c4906d3]" name="setUp" is-config="true" duration-ms="40" started-at="2019-01-22T12:37:35Z" finished-at="2019-01-22T12:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.seleniumnew.Apitestpayslips.Apigetemploy2109@6c4906d3]" name="test" duration-ms="32320" started-at="2019-01-22T12:37:36Z" finished-at="2019-01-22T12:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumnew.Apitestpayslips.Apigetemploy2109@6c4906d3]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-01-22T12:38:08Z" finished-at="2019-01-22T12:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumnew.Apitestpayslips.Apigetemploy2109 -->
+      <class name="com.seleniumnew.Apitestpayslips.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:com.seleniumnew.Apitestpayslips.AppTest@7fd50002]" name="testApp" duration-ms="2" started-at="2019-01-22T12:38:08Z" finished-at="2019-01-22T12:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.seleniumnew.Apitestpayslips.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
